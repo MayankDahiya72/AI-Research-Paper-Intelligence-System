@@ -27,24 +27,11 @@ This project uses the arXiv Scientific Research Papers Dataset from Kaggle. The 
 After downloading the dataset, place the CSV file in the project directory before running the notebook.
 Link for the dataset:- https://www.kaggle.com/datasets/sumitm004/arxiv-scientific-research-papers-dataset?resource=download
 
-Models Used
+# Models Used
 | Model                                 | Purpose                       |
 | ------------------------------------- | ----------------------------- |
 | all-MiniLM-L6-v2                      | Semantic Embedding Generation |
 | facebook/bart-large-cnn               | Research Paper Summarization  |
 | distilbert-base-cased-distilled-squad | Question Answering            |
 
-Project Workflow
 
-The project follows the following pipeline:
-
-Data Cleaning and Preprocessing
-Exploratory Data Analysis (EDA)
-Text Embedding Generation using Sentence Transformers
-Semantic Search using FAISS
-Document Clustering using PCA and K-Means
-Research Paper Classification
-Named Entity Recognition
-Keyword Extraction
-Research Paper Summarization
-Transformer-based Question Answering
