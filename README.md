@@ -3,7 +3,7 @@ AI-powered research paper intelligence system with semantic search, classificati
 
 An end-to-end Machine Learning and Natural Language Processing (NLP) project that transforms arXiv research papers into an intelligent research assistant. The system enables semantic search, document clustering, research paper classification, keyword extraction, named entity recognition, abstractive summarization, and transformer-based question answering using state-of-the-art NLP models.
 
-Features
+# Features
 Semantic Search using Sentence Transformers and FAISS
 Research Paper Classification using SGD Classifier
 Document Clustering using K-Means
@@ -12,7 +12,8 @@ Named Entity Recognition (NER) using SpaCy
 Keyword Extraction using KeyBERT
 Research Paper Summarization using BART
 Transformer-based Question Answering using DistilBERT
-Tech Stack
+
+# Tech Stack
 Programming Language: Python
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib
 Machine Learning: PCA, K-Means, SGD Classifier
