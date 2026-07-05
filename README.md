@@ -8,10 +8,10 @@ Semantic Search using Sentence Transformers and FAISS
 Research Paper Classification using SGD Classifier    
 Document Clustering using K-Means     
 PCA Visualization of Research Paper Embeddings   
-Named Entity Recognition (NER) using SpaCy 
-Keyword Extraction using KeyBERT 
-Research Paper Summarization using BART 
-Transformer-based Question Answering using DistilBERT 
+Named Entity Recognition (NER) using SpaCy   
+Keyword Extraction using KeyBERT    
+Research Paper Summarization using BART    
+Transformer-based Question Answering using DistilBERT    
 
 # Tech Stack
 Programming Language: Python
